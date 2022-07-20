@@ -1,0 +1,23 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "I started my Unit testing with Jest.",
+  "main": "test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HatimDev-HE/testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HatimDev-HE/testing/issues"
+  },
+  "homepage": "https://github.com/HatimDev-HE/testing#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
